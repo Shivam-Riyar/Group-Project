@@ -12,3 +12,14 @@
 - Club Information
 - Roomwise Mapping
 - form - feature - business card
+
+- mysql
+- fields 
+- bio
+- system id (Primary key) 
+- gender
+- age 
+- email/personal contact 
+- social links ==instagram ==facebook ==twitter ==linkedin ==github ==hackerrank
+- //user-defined
+- 
