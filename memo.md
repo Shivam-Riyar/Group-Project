@@ -23,4 +23,4 @@
 - email/personal contact 
 - social links ==instagram ==facebook ==twitter ==linkedin ==github ==hackerrank
 - //user-defined
-- 
+- to be implemned in PHP/MySQl or Django/MongoDB
